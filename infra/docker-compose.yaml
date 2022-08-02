@@ -8,7 +8,7 @@ services:
       - ./.env
   
   web:
-    image: gavral/api_yamdb:latest
+    image: gavral/yamdb_final_web:latest
     restart: always
     volumes:
       - static_value:/app/static/
