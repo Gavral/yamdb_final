@@ -66,3 +66,8 @@ sudo  docker-compose --version
 ```
 mkdir nginx
 ```
+
+## Развёрнутый проект
+http://51.250.97.92/api/v1/
+http://51.250.97.92/admin/
+http://51.250.97.92/redoc/
